@@ -1,16 +1,18 @@
-# note_taking_app
+Note Taking App
+This is a simple note-taking app developed using Flutter. It allows users to create, edit, and delete notes, as well as view details of individual notes. The app also includes a splash screen and the ability to change the color of each note.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Create a new note
+Edit an existing note
+Delete a note
+View the details of a note
+Change the color of a note
+Splash screen on app launch
+Tools and Technologies Used
+Flutter SDK
+Dart programming language
+SQLite database
+Material Design Widgets
+Cupertino Widgets
+Date formatting using the intl package
+Color picker using the flutter_colorpicker package
